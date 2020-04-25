@@ -9,7 +9,7 @@ The Use Case diagram describes the main functionalities the project will impleme
 * After the affectation the program can generate two types of export :
 ** A global assignment file intended to be used by the administration.
 ** Multiple assignment files representing the assignment of each teacher.
-
+[[Seq_diag]]
 = Sequence diagrams doc :
 
 == First diagram : “Seq_diagram_Global_context” 
